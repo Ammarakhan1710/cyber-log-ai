@@ -1,0 +1,10 @@
+log_text,label
+login failed from 192.168.1.5,suspicious
+user admin logged in successfully,normal
+unauthorized access attempt detected,suspicious
+file deleted successfully,normal
+login denied from 10.0.0.1,suspicious
+error writing file, suspicious
+user logged out normally,normal
+attack detected on server,suspicious
+
